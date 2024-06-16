@@ -18,12 +18,13 @@ This repository contains the code for a news website that displays daily top hea
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/girdhatgarawalbro/newsapi-website.git
+      
 2. **Install Dependencies**:
-  ```bash
+     ```bash
     cd newsapi-website
     npm install
-
-3. ***Run the Application***:
+     ```
+3. **Run the Application**:
     ```bash
       npm start
 
