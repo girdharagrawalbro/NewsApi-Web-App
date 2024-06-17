@@ -10,7 +10,7 @@ This repository contains the code for a news website that displays daily top hea
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, JavaScript, Bootstrap
 - API: News API for fetching live news data
 
 ## Getting Started
